@@ -1,0 +1,9 @@
+D:\Happy\Happy\Happy\BLL\bin\Debug\BLL.dll
+D:\Happy\Happy\Happy\BLL\bin\Debug\BLL.pdb
+D:\Happy\Happy\Happy\BLL\bin\Debug\DAL.dll
+D:\Happy\Happy\Happy\BLL\bin\Debug\Model.dll
+D:\Happy\Happy\Happy\BLL\bin\Debug\DAL.pdb
+D:\Happy\Happy\Happy\BLL\bin\Debug\Model.pdb
+D:\Happy\Happy\Happy\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Happy\Happy\Happy\BLL\obj\Debug\BLL.dll
+D:\Happy\Happy\Happy\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,5 @@
+D:\Happy\Happy\Happy\Model\bin\Debug\Model.dll
+D:\Happy\Happy\Happy\Model\bin\Debug\Model.pdb
+D:\Happy\Happy\Happy\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Happy\Happy\Happy\Model\obj\Debug\Model.dll
+D:\Happy\Happy\Happy\Model\obj\Debug\Model.pdb

@@ -1,0 +1,10 @@
+D:\Happy\Happy\Happy\DAL\bin\Debug\DAL.dll
+D:\Happy\Happy\Happy\DAL\bin\Debug\DAL.pdb
+D:\Happy\Happy\Happy\DAL\bin\Debug\Common.dll
+D:\Happy\Happy\Happy\DAL\bin\Debug\ISS.DataAccess.dll
+D:\Happy\Happy\Happy\DAL\bin\Debug\Model.dll
+D:\Happy\Happy\Happy\DAL\bin\Debug\Common.pdb
+D:\Happy\Happy\Happy\DAL\bin\Debug\Model.pdb
+D:\Happy\Happy\Happy\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Happy\Happy\Happy\DAL\obj\Debug\DAL.dll
+D:\Happy\Happy\Happy\DAL\obj\Debug\DAL.pdb
